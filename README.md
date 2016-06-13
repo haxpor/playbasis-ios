@@ -1,5 +1,11 @@
 # Playbasis iOS SDK
 
+**No more maintain**.
+
+Please look at [https://github.com/playbasis/mobile-sdk-ios](https://github.com/playbasis/mobile-sdk-ios)
+
+---
+
 Playbasis iOS SDK is a brand new iOS SDK from Playbasis for helping developers integrate their mobile apps with Playbasis gamification API.
 
 The iOS SDK is designed to work effectively with mobile devices. For example, it provides:
